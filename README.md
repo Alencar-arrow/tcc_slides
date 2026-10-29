@@ -14,9 +14,9 @@
   <br/><br/>
 
   <!-- Badges de Tecnologia e Estado com espaçamento -->
-  ![](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)&nbsp;&nbsp;
-  ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)&nbsp;&nbsp;
-  ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;&nbsp;
+  ![](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)&nbsp;
+  ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)&nbsp;
+  ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
   ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
   </div>
