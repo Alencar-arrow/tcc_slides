@@ -7,7 +7,7 @@
   </p>
 
   <!-- Botão Principal -->
-  <a href="https://alencar-arrow.github.io/tcc_gilberto-main/1" target="_blank">
+  <a href="https://alencar-arrow.github.io/tcc_slides/1" target="_blank">
     <img src="https://img.shields.io/badge/ Acessar%20Apresentação%20Ao%20Vivo-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Apresentação Ao Vivo" />
   </a>
 
