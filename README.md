@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Sobre o Projeto
+### Sobre o Projeto
 Este projeto consiste na criação de **slides programados por código** para a apresentação e defesa do TCC do Ensino Médio. Em vez de utilizar ferramentas tradicionais de diapositivos, a aplicação foi construída com tecnologias modernas de desenvolvimento web, garantindo fluidez, componentes reutilizáveis, design responsivo e uma estética altamente profissional.
 
 ---
