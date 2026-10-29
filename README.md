@@ -27,7 +27,7 @@ Este projeto consiste na criação de **slides programados por código** para a 
 ---
 
 ### 💻 Tecnologias Utilizadas
-- **Vue.js** — Framework principal para estruturação de componentes dinâmicos e gestão dos slides.
+ **Vue.js** — Framework principal para estruturação de componentes dinâmicos e gestão dos slides.
 - **TypeScript** — Tipagem estática para maior segurança e robustez no código.
 - **CSS3** — Estilização avançada, transições e layout personalizado para cada diapositivo.
 
